@@ -180,7 +180,7 @@ async def async_setup(hass, config):
                                         'device':   {
                                                     'identifiers':'Goodwe Inverter',
                                                     'name':'GoodWe Inverter',
-                                                    'model':data['type'],
+                                                    'model':'gw2000',
                                                     'manufacturer':'GoodWe'
                                                     }
                                     }
@@ -194,7 +194,7 @@ async def async_setup(hass, config):
                                         'device':   {
                                                     'identifiers':'Goodwe Inverter',
                                                     'name':'GoodWe Inverter',
-                                                    'model':data['type'],
+                                                    'model':'gw2000',
                                                     'manufacturer':'GoodWe'
                                                     }
                                     }
@@ -208,7 +208,7 @@ async def async_setup(hass, config):
                                         'device':   {
                                                     'identifiers':'Goodwe Inverter',
                                                     'name':'GoodWe Inverter',
-                                                    'model':data['type'],
+                                                    'model':'gw2000',
                                                     'manufacturer':'GoodWe'
                                                     }
                                     }
@@ -222,7 +222,7 @@ async def async_setup(hass, config):
                                         'device':   {
                                                     'identifiers':'Goodwe Inverter',
                                                     'name':'GoodWe Inverter',
-                                                    'model':data['type'],
+                                                    'model':'gw2000',
                                                     'manufacturer':'GoodWe'
                                                     }
                                     }
@@ -236,7 +236,7 @@ async def async_setup(hass, config):
                                         'device':   {
                                                     'identifiers':'Goodwe Inverter',
                                                     'name':'GoodWe Inverter',
-                                                    'model':data['type'],
+                                                    'model':'gw2000',
                                                     'manufacturer':'GoodWe'
                                                     }
                                     }
@@ -250,7 +250,7 @@ async def async_setup(hass, config):
                                         'device':   {
                                                     'identifiers':'Goodwe Inverter',
                                                     'name':'GoodWe Inverter',
-                                                    'model':data['type'],
+                                                    'model':'gw2000',
                                                     'manufacturer':'GoodWe'
                                                     }
                                     }
@@ -264,7 +264,7 @@ async def async_setup(hass, config):
                                         'device':   {
                                                     'identifiers':'Goodwe Inverter',
                                                     'name':'GoodWe Inverter',
-                                                    'model':data['type'],
+                                                    'model':'gw2000',
                                                     'manufacturer':'GoodWe'
                                                     }
                                     }
@@ -278,7 +278,7 @@ async def async_setup(hass, config):
                                         'device':   {
                                                     'identifiers':'Goodwe Inverter',
                                                     'name':'GoodWe Inverter',
-                                                    'model':data['type'],
+                                                    'model':'gw2000',
                                                     'manufacturer':'GoodWe'
                                                     }
                                     }
@@ -292,7 +292,7 @@ async def async_setup(hass, config):
                                         'device':   {
                                                     'identifiers':'Goodwe Inverter',
                                                     'name':'GoodWe Inverter',
-                                                    'model':data['type'],
+                                                    'model':'gw2000',
                                                     'manufacturer':'GoodWe'
                                                     }
                                     }
