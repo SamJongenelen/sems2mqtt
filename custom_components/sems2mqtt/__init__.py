@@ -90,7 +90,7 @@ async def async_setup(hass, config):
             data = call("v1/PowerStation/GetMonitorDetailByPowerstationId", payload)
             inverterData = data['inverter'][0]['invert_full']
             result = {
-                    'type'  : inverterData['model_type'],
+                    'type'  : 'gw2000',
                     'status'  : status[inverterData['status']],
                     'pgrid_w' : str(inverterData['pac']),
                     'temperature' : str(inverterData['tempperature']),
